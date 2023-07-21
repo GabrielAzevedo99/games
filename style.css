@@ -1,0 +1,16 @@
+.text-underline-hover {
+    text-decoration: none;
+}
+
+.text-underline-hover:hover {
+    text-decoration: underline;
+}
+
+#sh {
+    text-shadow: #000 2px 3px 2px;
+}
+
+.cards-wrapper {
+    display: flex;
+    justify-content: center;
+}
